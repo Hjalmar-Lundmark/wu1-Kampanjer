@@ -1,12 +1,19 @@
 # Planering
 
-Skriv ned tema, färger, vad handlar din text om.
-Skapa 
+### Skriv ned tema, färger, vad handlar din text om.
 
-* färger
-* bilder ikoner
-* typsnitt
-* former
+Min kampanj handlar om jämställdhet på arbetsmarknaden. 
+
+Titel: Obalans
+
+Slogan: Allt för en jämställd arbetsmarknad
+
+### Skapa 
+
+* Färger - Cyan/blågrön, gråskala. typ https://coolors.co/28262c-998fc7-d4c2fc-f9f5ff-14248a, https://coolors.co/d1f0b1-b6cb9e-92b4a7-8c8a93-81667a ?
+* Bilder ikoner - Någon bakgrundsbild
+* Typsnitt - Sans serif, 
+* Former - 
 
 
 
