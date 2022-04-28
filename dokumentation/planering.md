@@ -10,7 +10,7 @@ Slogan: Allt för en jämställd arbetsmarknad
 
 ### Skapa 
 
-* Färger - Cyan/blågrön, gråskala. typ https://coolors.co/28262c-998fc7-d4c2fc-f9f5ff-14248a, https://coolors.co/d1f0b1-b6cb9e-92b4a7-8c8a93-81667a ?
+* Färger - Blå/blågrön, gråskala. typ https://coolors.co/28262c-998fc7-d4c2fc-f9f5ff-14248a, https://coolors.co/d1f0b1-b6cb9e-92b4a7-8c8a93-81667a ?
 * Bilder ikoner - Någon bakgrundsbild
 * Typsnitt - Sans serif, 
 * Former - 
@@ -18,7 +18,12 @@ Slogan: Allt för en jämställd arbetsmarknad
 
 
 ## Vecka 17
+Planerat, markat upp mycket, skaffat en bild. 
 
+Att göra: 
+
+* jobba mer med färger
+* skaffa typsnitt
 
 
 ## Vecka 18
