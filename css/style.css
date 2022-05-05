@@ -2,7 +2,7 @@
     --color-light: #F9F5FF;
     --color-dark: #28262C;
     --color-shadow: hsla(0, 0%, 13%, 0.2);
-    --color-primary: #D4C2FC;
+    --color-primary: #BB9EFA;
     --color-secondary: #14248a; 
 
     /*--color-light: hsl(0, 0%, 94%);
@@ -36,6 +36,9 @@ footer a {
     flex-wrap: wrap;
     align-items: center;
     padding: 1rem;
+    position: sticky;
+    top: 0;
+    background-color: var(--color-light);
 
     font-size: 1.333rem;
 }
@@ -58,7 +61,7 @@ footer a {
         display: none;
     }
 }
-@media (min-width: 768px) {
+@media (min-width: 769px) {
     .navbar__toggle {
         display: none;
     }
@@ -95,6 +98,22 @@ footer a {
     .nav-item:first-child {
         padding-left: 0rem;
     }
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    /*-webkit-font-feature-settings: 'liga';*/
+    -webkit-font-smoothing: antialiased;
 }
 
 /* container */
@@ -172,9 +191,9 @@ body {
 .hero {
     font-size: 1.777rem;
 
+    background-color: var(--color-dark);
     background-image: url(../img/amy-elting-_9ETHblkvXQ-unsplash.jpg);
     color: var(--color-light);
-    /*background-color: var(--color-dark); */ 
     min-height: 80vh;
     display: grid;
     place-content: center;

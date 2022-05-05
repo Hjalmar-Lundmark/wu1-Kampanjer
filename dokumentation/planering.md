@@ -10,7 +10,7 @@ Slogan: Allt för en jämställd arbetsmarknad
 
 ### Skapa 
 
-* Färger - Blå + gråskala. typ https://coolors.co/28262c-d4c2fc-f9f5ff-14248a
+* Färger - Blå + gråskala. https://coolors.co/28262c-bb9efa-f9f5ff-14248a
 * Bilder ikoner - Någon bakgrundsbild
 * Typsnitt - Sans serif, Open sans
 * Former - 
@@ -32,7 +32,11 @@ Att göra:
 * Hur ligger du till? - Bra
 * Vad behöver du hjälp med? - Inget 
 
+Ändrat klart med färger, lagt in font och andra små förbättringar. 
 
+Kvar att göra:
+1. idk
+2. Kanske en bättre bild?
 
 
 ## ~~Vecka 19~~ NP
