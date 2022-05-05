@@ -2,7 +2,7 @@
     --color-light: #F9F5FF;
     --color-dark: #28262C;
     --color-shadow: hsla(0, 0%, 13%, 0.2);
-    --color-primary: hsl(347, 83%, 56%);
+    --color-primary: #D4C2FC;
     --color-secondary: #14248a; 
 
     /*--color-light: hsl(0, 0%, 94%);
@@ -11,7 +11,7 @@
     --color-primary: hsl(347, 83%, 56%);
     --color-secondary: hsl(275, 100%, 25%); */
 
-    --font-sans: "Merriweather Sans", sans-serif;
+    --font-sans: "Open Sans", sans-serif;
 }
 
 .brand {
@@ -24,6 +24,10 @@ a {
 }
 a:hover {
     color: var(--color-primary);
+}
+
+footer a {
+    color: var(--color-light);
 }
 
 /* navbar */
@@ -160,6 +164,7 @@ body {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 .btn:hover {
+    color: var(--color-light);
     background-color: var(--color-primary);
 }
 

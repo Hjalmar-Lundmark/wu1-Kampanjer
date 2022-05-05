@@ -10,9 +10,9 @@ Slogan: Allt för en jämställd arbetsmarknad
 
 ### Skapa 
 
-* Färger - Blå/blågrön, gråskala. typ https://coolors.co/28262c-998fc7-d4c2fc-f9f5ff-14248a, https://coolors.co/d1f0b1-b6cb9e-92b4a7-8c8a93-81667a ?
+* Färger - Blå + gråskala. typ https://coolors.co/28262c-d4c2fc-f9f5ff-14248a
 * Bilder ikoner - Någon bakgrundsbild
-* Typsnitt - Sans serif, 
+* Typsnitt - Sans serif, Open sans
 * Former - 
 
 
@@ -27,17 +27,22 @@ Att göra:
 
 
 ## Vecka 18
+* Vad gjorde du sist? - Märkte upp sidan, skaffade en bild. 
+* Vad ska du göra idag? - Typsnitt och jobb med färger. 
+* Hur ligger du till? - Bra
+* Vad behöver du hjälp med? - Inget 
 
 
 
-## Vecka 19 NP
+
+## ~~Vecka 19~~ NP
 
 
 ## Vecka 20
 
 
 
-## Vecka 21 Kristi himmels
+## ~~Vecka 21~~ Kristi himmels
 
 
 
