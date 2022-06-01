@@ -43,7 +43,7 @@ Kvar att göra:
 
 
 ## Vecka 20
-
+Sjuk. 
 
 
 ## ~~Vecka 21~~ Kristi himmels
