@@ -8,5 +8,8 @@ De andra valideringarna på [validator.nu](https://validator.nu/) och [Jigsaw](h
 
 Min bild ser lite konstig ut i olika skärmstorlekar och specifikt på mobil då bilden inte visar "det relevanta" men jag tycker att bilden ser ganska bra ut på alla webbstorlekar ändå då jag inte vill ha den för distraherande. 
 
-Det har gått bra med att göra om sidan till min, 
+Det har gått bra med att göra om sidan till min. 
 
+Ingenting har direkt gått dåligt, dock var det lite svårt att hitta en vettig bild men till slut hittade jag en okej på [Unsplash](https://unsplash.com/). 
+
+Det här projektet har gått bra och jag har lärt mig mer om html och css. Sidan skulle kunna vara komplexare och jag skulle kunna typ lägga till en bild i texten eller något mer men jag är nöjd. 
