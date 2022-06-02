@@ -32,7 +32,7 @@ Att göra:
 * Hur ligger du till? - Bra
 * Vad behöver du hjälp med? - Inget 
 
-Ändrat klart med färger, lagt in font och andra små förbättringar. 
+Ändrat klart med färger, lagt in font och andra små förbättringar utifrån valideringar. 
 
 Kvar att göra:
 1. idk
@@ -52,6 +52,8 @@ Sjuk.
 
 
 ## Vecka 22 
+Skrivit PM. 
+
 
 Inlämning och PM
 
